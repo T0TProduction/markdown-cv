@@ -18,11 +18,11 @@ CTO and Co-Founder at flint.gg
 
 ### Specialized in
 
-TypeScript, JavaScript, Nuxt.js, Vue.js, PostgreSQL, Node.js
+TypeScript, JavaScript, Node.js, Nuxt.js, Vue.js, PostgreSQL
 
 ### Proficient with
 
-Java, MongoDB, C, C#, C++, Unity, Unreal, AWS
+Java, HTML, SCSS, SQL, MongoDB, C, C#, C++, Unity, Unreal, AWS
 
 ## Education
 
@@ -44,7 +44,7 @@ Java, MongoDB, C, C#, C++, Unity, Unreal, AWS
 
 ## Experience
 
-A more detailed list is also available on [https://diluz.io/sebastian](https://diluz.io/sebastian)
+A more detailed list is available on [https://diluz.io/sebastian](https://diluz.io/sebastian)
 
 ### Jobs
 
