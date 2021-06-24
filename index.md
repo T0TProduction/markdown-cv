@@ -1,91 +1,80 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sebastian Di Luzio's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Sebastian Di Luzio
+
+Full-Stack Web-developer, Games Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sebastian@diluz.io">sebastian@diluz.io</a>
+| <a href="https://diluz.io">https://diluz.io</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+CTO and Co-Founder at flint.gg
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+TypeScript, JavaScript, Nuxt.js, Vue.js, PostgreSQL, Node.js
 
+### Proficient with
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Java, MongoDB, C, C#, C++, Unity, Unreal, AWS
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015 - 2019`
+**BSc: Games Engineering**, Technical University of Munich
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015`
+**High School Degree**, Ignaz-Taschner-Gymnasium Dachau
 
-- Sizar
+### Languages
 
-`1667 - death`
-__Trinity College, Cambridge__
+- German (Mother Tongue)
+- English (C1)
 
-- Fellow
+### Nationality
 
+- German
+- US-American
 
+## Experience
 
-## Awards
+A more detailed list is also available on [https://diluz.io/sebastian](https://diluz.io/sebastian)
 
-`2012`
-President, *Royal Society*, London, UK
+### Jobs
 
-Associate, *French Academy of Science*, Paris, France
+`8/2019- 7/2021`
+**CTO and Co-Founder at [flint.gg](https://app.flint.gg)**
 
+flint.gg is the home of every gamers identity. It's a social network that connects gamers across all games and platforms by enabling them to easily represent themselves. This is accomplished with so-called Gamecards, which include favourite loadouts, outfits and items, as well as statistics directly pulled from the game.
 
+### Projects
 
-## Publications
+`6/2020`
+**Creator and maintainer of [easyshare](https://easyshare.flint.gg)**
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Getting media, such as screenshots and videos, from your Nintendo Switch or Playstation 4 to your computer, smartphone and social media is difficult. Easyshare takes care of all the difficulties and makes it easy for you.
 
-### Journals
+`10/2018 - 7/2019`
+**Creator of [ixy.js](https://github.com/ixy-languages/ixy.js)**
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+This was part of my Bachelors Thesis: the JavaScript implementation of ixy. It features a state-of-the-art user-space network driver written in idiomatic JavaScript running on Node.js.
 
-`1669`
-Lectiones opticæ.
+`8/2018 - Present`
+**Creator and maintainer of [BLAPI](https://github.com/botblock/BLAPI)**
 
-etc. etc. etc.
+BLAPI - the BotListAPI. A TypeScript package to automatically post Discord bot stats to all botlists.
 
-### Patents
+`7/2017 - Present`
+**Creator and maintainer of [MagiBot](https://bots.ondiscord.xyz/bots/384820232583249921)**
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+A Discord bot that helps voice-chat focused servers build communities. It is currently serving 900.000+ users in over 2000 guilds.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: 7/2021 -->
